@@ -1,13 +1,13 @@
 # Testrail CLI
 CLI for TestRail
 
-Retrieve information
+**Retrieve Information**
 * Individual test data: Status, Assignee, Case and Run IDs
 * Run status 
 * Data about all tests in a run
 * Specific
 
-Mark Tests
+**Mark Tests Results**
 * Passed
 * Blocked
 * Untested
