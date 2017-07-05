@@ -5,7 +5,6 @@ CLI for TestRail
 * Individual test data: Status, Assignee, Case and Run IDs
 * Run status 
 * Data about all tests in a run
-* Specific
 
 **Mark Tests Results**
 * Passed
